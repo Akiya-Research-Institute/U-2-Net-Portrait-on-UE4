@@ -2,6 +2,10 @@
 
 Example UE4 project for U<sup>2</sup>-Net Portraint.  
 
+https://user-images.githubusercontent.com/89242761/154793846-912ee234-eea7-459b-b423-83a873bfa2c0.mp4  
+
+(Note that environment assets in this video is not included. You can get the asset from [UE market place for free](https://www.unrealengine.com/marketplace/ja/product/infinity-blade-plain-lands))
+
 ## Environment
 
 - OS: Windows 10 64bit
