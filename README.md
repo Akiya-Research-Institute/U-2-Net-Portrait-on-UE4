@@ -1,6 +1,6 @@
-# U<sup>2</sup>-Net Portraint on UE4
+# U<sup>2</sup>-Net Portrait on UE4
 
-Example UE4 project for U<sup>2</sup>-Net Portraint.  
+Example UE4 project for U<sup>2</sup>-Net Portrait.  
 
 https://user-images.githubusercontent.com/89242761/154793846-912ee234-eea7-459b-b423-83a873bfa2c0.mp4  
 
@@ -14,7 +14,7 @@ https://user-images.githubusercontent.com/89242761/154793846-912ee234-eea7-459b-
 
 ## Download
 
-Please download from the [release](https://github.com/Akiya-Research-Institute/U-2-Net-Portraint-on-UE4/releases) page.
+Please download from the [release](https://github.com/Akiya-Research-Institute/U-2-Net-Portrait-on-UE4/releases) page.
 
 ## Run the demo
 
