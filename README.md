@@ -14,7 +14,8 @@ https://user-images.githubusercontent.com/89242761/154793846-912ee234-eea7-459b-
 
 ## Download
 
-Please download from the [release](https://github.com/Akiya-Research-Institute/U-2-Net-Portrait-on-UE4/releases) page.
+Please download from the [release](https://github.com/Akiya-Research-Institute/U-2-Net-Portrait-on-UE4/releases) page.  
+(Or, clone this repository, download ONNX model from [here (GitHub release page)](https://github.com/Akiya-Research-Institute/U-2-Net-Portrait-on-UE4/releases/download/v0.1/U2Net_Protrait_1x512x512x3xBGRxByte.onnx) or [here (Google Drive)](https://drive.google.com/file/d/1gmS84EwwOxKy1-hhG-e477ezbMQgncis/view?usp=sharing), and place it under `Source/ThirdParty/Models`.)
 
 ## Run the demo
 
